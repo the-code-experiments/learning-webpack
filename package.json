@@ -1,0 +1,28 @@
+{
+  "name": "learning-webpack",
+  "version": "0.0.0",
+  "description": "Basic understanding of webpack via examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hegdeashwin/learning-webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "bundle",
+    "module"
+  ],
+  "author": "Ashwin Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hegdeashwin/learning-webpack/issues"
+  },
+  "homepage": "https://github.com/hegdeashwin/learning-webpack#readme",
+  "devDependencies": {
+    "css-loader": "^0.23.0",
+    "style-loader": "^0.13.0"
+  }
+}
