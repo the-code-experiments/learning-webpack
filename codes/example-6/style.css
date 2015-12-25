@@ -1,16 +1,7 @@
 body {
-  background: black;
-  font-family: arial;
+  background: blue;
 }
 
 h1 {
-  color: white;
-}
-
-h2 {
   color: yellow;
-}
-
-h3 {
-  color: pink;
 }
