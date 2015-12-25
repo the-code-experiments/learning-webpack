@@ -12,3 +12,4 @@
 |6|```webpack```|Webpack will read ```webpack.config.js``` from the root directory to build bundle.js|
 |7|```webpack --watch```|Will keep a watch on files to automatically rebuild the bundle|
 |7|```webpack-dev-server```|webpack-dev-server is a development server, it binds a small express server on localhost:8080 which serves your static assets as well as the bundle|
+|8|```webpack```|Multiple entry files are allowed|
