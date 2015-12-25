@@ -23,6 +23,7 @@
   "homepage": "https://github.com/hegdeashwin/learning-webpack#readme",
   "devDependencies": {
     "css-loader": "^0.23.0",
+    "open": "0.0.5",
     "open-browser-webpack-plugin": "0.0.1",
     "style-loader": "^0.13.0"
   }
