@@ -1,1 +1,1 @@
-console.log("Hello webpack");
+module.exports = "Hello webpack";
