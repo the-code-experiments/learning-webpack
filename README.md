@@ -1,5 +1,6 @@
 # Learning WEBPACK - MODULE BUNDLER
 
+## Table of Content
 |Eg.No.|Execution Command|Comments|
 |------|-----------------|--------|
 |1|```webpack entry.js bundle.js```|Webpack will read entry.js file to build bundle.js|
@@ -19,3 +20,4 @@
 |12|```webpack```|Shows how to load raw file|
 |13|```webpack```|Shows how to configure jshint & JSCS loaders for JavaScript linting|
 |14|```webpack```|Shows how to load Handlebars templates file|
+|15|```webpack```|Shows how to load LESS loader|
