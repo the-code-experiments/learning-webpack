@@ -1,0 +1,21 @@
+[{
+  "name": "Ashwin Hegde",
+  "job": "Software Engineer",
+  "skills": "JavaScript, Go, Python, PHP, HTML, CSS"
+}, {
+  "name": "Kumar Kundan",
+  "job": "Manager",
+  "skills": "SCRUM master"
+}, {
+  "name": "Ajay Sajwan",
+  "job": "Manager",
+  "skills": "Kanban master"
+}, {
+  "name": "Saju S",
+  "job": "Software Analyst",
+  "skills": "JavaScript, Java, HTML, CSS, ActionScript"
+}, {
+  "name": "Jerin John",
+  "job": "Software Engineer",
+  "skills": "JavaScript, Java, HTML, CSS"
+}]
