@@ -1,5 +1,6 @@
 # Learning WEBPACK - MODULE BUNDLER
 
+## Table of Content
 |Eg.No.|Execution Command|Comments|
 |------|-----------------|--------|
 |1|```webpack entry.js bundle.js```|Webpack will read entry.js file to build bundle.js|
@@ -15,3 +16,8 @@
 |8|```webpack```|Multiple entry files are allowed|
 |9|```webpack```|Code splitting and loading files on demand, Open browser and try ```localhost:8080``` see content-1 is loaded but not content-2, Now try execute ```localhost:8080/#load``` see content-1 and content-2 are both loaded|
 |10|```webpack```|Shows how to load 3rd-party plugins|
+|11|```webpack```|Shows how to load JSON file|
+|12|```webpack```|Shows how to load raw file|
+|13|```webpack```|Shows how to configure jshint & JSCS loaders for JavaScript linting|
+|14|```webpack```|Shows how to load Handlebars templates file|
+|15|```webpack```|Shows how to load LESS loader|
