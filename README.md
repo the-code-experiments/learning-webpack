@@ -21,3 +21,4 @@
 |13|```webpack```|Shows how to configure jshint & JSCS loaders for JavaScript linting|
 |14|```webpack```|Shows how to load Handlebars templates file|
 |15|```webpack```|Shows how to load LESS loader|
+|16|```webpack```|Shows how to configure CSSLint loader for CSS linting|
