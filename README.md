@@ -1,4 +1,10 @@
-# Learning WEBPACK - MODULE BUNDLER
+# Learning Webpack - Module Bundler
+
+This training kit has been developed for those without
+* Already have the basic knowledge of JavaScript.
+* Who wants to write JavaScript in moduler way and bundle it for production use.
+
+Training ket includes set of examples of Webpack configuration which are listed in below [Table of Content](https://github.com/Code-by-practice/learning-webpack#table-of-content)
 
 ## Table of Content
 |Eg.No.|Execution Command|Comments|
@@ -22,3 +28,20 @@
 |14|```webpack```|Shows how to load Handlebars templates file|
 |15|```webpack```|Shows how to load LESS loader|
 |16|```webpack```|Shows how to configure CSSLint loader for CSS linting|
+|17|```webpack```|Shpws how to configure TypeScript loader for TS files|
+
+## Contributors
+
+Developed & maintained by author: Ashwin Hegde & [Contributors](//github.com/Code-by-practice/learning-webpack/graphs/contributors)
+
+We really appreciate all kind of feedback and contributions. Thank you for using and supporting this project.
+
+To request a feature or you find any typo errors, enhancements or questions; please feel free to send a pull-request on "develop" branch or post it on following link, or vote for the ones that are already registered.
+
+[https://github.com/Code-by-practice/learning-webpack/issues](https://github.com/Code-by-practice/learning-webpack/issues)
+
+## License
+
+The MIT License (MIT)
+
+Copyright (c) 2016 Ashwin Hegde
