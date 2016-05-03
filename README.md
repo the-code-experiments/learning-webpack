@@ -1,12 +1,12 @@
 # Learning Webpack - Module Bundler
 
-This training kit has been developed for those without
-* Already have the basic knowledge of JavaScript.
-* Who wants to write JavaScript in moduler way and bundle it for production use.
+This training kit has been developed for those who:
+* already have the basic knowledge of JavaScript.
+* want to write JavaScript in modular way and bundle it for production use.
 
-Training ket includes set of examples of Webpack configuration which are listed in below [Table of Content](https://github.com/Code-by-practice/learning-webpack#table-of-content)
+This training kit includes a set of example Webpack configurations which are listed in below [Table of Content](https://github.com/Code-by-practice/learning-webpack#table-of-contents)
 
-## Table of Content
+## Table of Contents
 |Eg.No.|Execution Command|Comments|
 |------|-----------------|--------|
 |1|```webpack entry.js bundle.js```|Webpack will read entry.js file to build bundle.js|
@@ -34,9 +34,9 @@ Training ket includes set of examples of Webpack configuration which are listed 
 
 Developed & maintained by author: Ashwin Hegde & [Contributors](//github.com/Code-by-practice/learning-webpack/graphs/contributors)
 
-We really appreciate all kind of feedback and contributions. Thank you for using and supporting this project.
+We appreciate all kinds of feedback and contributions. Thank you for using and supporting this project.
 
-To request a feature or you find any typo errors, enhancements or questions; please feel free to send a pull-request on "develop" branch or post it on following link, or vote for the ones that are already registered.
+To request a feature, ask a question, or report errors, please send a pull-request on "develop" branch or post it on following link, or vote for the ones that are already registered.
 
 [https://github.com/Code-by-practice/learning-webpack/issues](https://github.com/Code-by-practice/learning-webpack/issues)
 
