@@ -6,6 +6,14 @@ This training kit has been developed for those who:
 
 This training kit includes a set of example Webpack configurations which are listed in below [Table of Content](https://github.com/Code-by-practice/learning-webpack#table-of-contents)
 
+## Prerequisites installation
+
+Assuming that Node.js & npm are already installed & running.
+
+```
+npm install -g webpack webpack-dev-server
+```
+
 ## Table of Contents
 |Eg.No.|Execution Command|Comments|
 |------|-----------------|--------|
