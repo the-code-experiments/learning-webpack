@@ -28,7 +28,7 @@ npm install -g webpack webpack-dev-server
 |7|```webpack --watch```|Will keep a watch on files to automatically rebuild the bundle|
 |7|```webpack-dev-server```|webpack-dev-server is a development server, it binds a small express server on localhost:8080 which serves your static assets as well as the bundle|
 |8|```webpack```|Multiple entry files are allowed|
-|9|```webpack```|Code splitting and loading files on demand, Open browser and try ```localhost:8080``` see content-1 is loaded but not content-2, Now try execute ```localhost:8080/#load``` see content-1 and content-2 are both loaded|
+|9|```webpack```|Code splitting and loading files on demand, Open browser and try ```localhost:8080``` see content-1 is loaded but not content-2, Now try ```localhost:8080/#load``` see content-1 and content-2 are both loaded|
 |10|```webpack```|Shows how to load 3rd-party plugins|
 |11|```webpack```|Shows how to load JSON file|
 |12|```webpack```|Shows how to load raw file|
@@ -36,7 +36,7 @@ npm install -g webpack webpack-dev-server
 |14|```webpack```|Shows how to load Handlebars templates file|
 |15|```webpack```|Shows how to load LESS loader|
 |16|```webpack```|Shows how to configure CSSLint loader for CSS linting|
-|17|```webpack```|Shpws how to configure TypeScript loader for TS files|
+|17|```webpack```|Shows how to configure TypeScript loader for TS files|
 
 ## Contributors
 
